@@ -1,6 +1,6 @@
 # NN-Topology
 
-The maximum width of a neural network imposes a fundamental limit on the topological comlexity of the data that it can successfully classify.
+The maximum width of a neural network imposes a fundamental limit on the topological complexity of the data that it can successfully classify.
 
 <img src="https://github.com/jcvdwlt/NN-Topology/blob/master/figs/2d_lines.gif">
 
